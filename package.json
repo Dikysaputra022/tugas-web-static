@@ -1,0 +1,16 @@
+{
+  "name": "tugas-web-static",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  },
+  "devDependencies": {},
+  "description": ""
+}
